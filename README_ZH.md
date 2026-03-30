@@ -4,9 +4,9 @@
 
 Langfuse 可观测性集成，专为 [langchaingo](https://github.com/tmc/langchaingo)（LangChain 的 Go 实现）设计。
 
-![GitHub stars](https://img.shields.io/github/stars/your-org/langchaingo-langfuse)
-![Go Version](https://img.shields.io/github/go-mod/go-version/your-org/langchaingo-langfuse)
-![License](https://img.shields.io/github/license/your-org/langchaingo-langfuse)
+![GitHub stars](https://img.shields.io/github/stars/1ncludeSteven/langchaingo-langfuse)
+![Go Version](https://img.shields.io/github/go-mod/go-version/1ncludeSteven/langchaingo-langfuse)
+![License](https://img.shields.io/github/license/1ncludeSteven/langchaingo-langfuse)
 
 ## 功能特性
 
@@ -21,7 +21,7 @@ Langfuse 可观测性集成，专为 [langchaingo](https://github.com/tmc/langch
 ## 安装
 
 ```bash
-go get github.com/your-org/langchaingo-langfuse
+go get github.com/1ncludeSteven/langchaingo-langfuse
 ```
 
 ## 快速开始
@@ -34,7 +34,7 @@ import (
     "fmt"
     "os"
 
-    langfuseAdapter "github.com/your-org/langchaingo-langfuse"
+    langfuseAdapter "github.com/1ncludeSteven/langchaingo-langfuse"
     "github.com/tmc/langchaingo/llms"
     "github.com/tmc/langchaingo/llms/openai"
 )

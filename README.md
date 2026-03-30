@@ -34,7 +34,7 @@ import (
     "fmt"
     "os"
 
-    langfuseAdapter "github.com/your-org/langchaingo-langfuse"
+    langfuseAdapter "github.com/1ncludeSteven/langchaingo-langfuse"
     "github.com/tmc/langchaingo/llms"
     "github.com/tmc/langchaingo/llms/openai"
 )
